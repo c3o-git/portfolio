@@ -4,7 +4,8 @@
 ## Author
 
 **CELESTINE CALISTUS** 
-* *Initial work* - [c3o-git][https://c3o-git.github.io/c3o-git/] (Repository space)
+* *Initial work* - [c3o-git][https://c3o-git.github.io/c3o-git/portfolio]
+* 
 
 ## Showcase
 
