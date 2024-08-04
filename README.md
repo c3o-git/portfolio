@@ -10,5 +10,5 @@
 
 This project was designed to demonstrate:
 
-* My Portfolio Of My Skills 
+* My Portfolio Of My Skills and Experience 
   
